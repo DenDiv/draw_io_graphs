@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-12-24T17:44:36.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="p57ABRWxn2egAOtyogSN" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-24T18:31:01.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="IlcmXAzrYE_KysvwjrSz" type="github">
   <diagram id="pZF7BrZM8KYYfmaUWbH-" name="Page-1">
-    <mxGraphModel dx="807" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="807" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w4F0DA9J7AdauBMP3hV4-52" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#666666;fontSize=20;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="480" y="330" width="120" height="220" as="geometry" />
+        <mxCell id="w4F0DA9J7AdauBMP3hV4-64" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#666666;fontSize=20;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="560" y="330" width="170" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="w4F0DA9J7AdauBMP3hV4-51" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#666666;fontSize=20;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="470" y="330" width="120" height="220" as="geometry" />
+        <mxCell id="w4F0DA9J7AdauBMP3hV4-63" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#666666;fontSize=20;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="550" y="330" width="170" height="220" as="geometry" />
         </mxCell>
         <mxCell id="w4F0DA9J7AdauBMP3hV4-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.137;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;endArrow=none;endFill=0;" edge="1" parent="1" source="w4F0DA9J7AdauBMP3hV4-1" target="w4F0DA9J7AdauBMP3hV4-2">
           <mxGeometry relative="1" as="geometry" />
@@ -27,17 +27,17 @@
         <mxCell id="w4F0DA9J7AdauBMP3hV4-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;endArrow=none;endFill=0;" edge="1" parent="1" source="w4F0DA9J7AdauBMP3hV4-2" target="w4F0DA9J7AdauBMP3hV4-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w4F0DA9J7AdauBMP3hV4-2" value="&lt;ul&gt;&lt;li&gt;Transaction time 1&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;arcSize=50;shadow=0;align=left;" vertex="1" parent="1">
+        <mxCell id="w4F0DA9J7AdauBMP3hV4-2" value="&lt;ul&gt;&lt;li&gt;Credit card statement date 1&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;arcSize=50;shadow=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="270" y="320" width="146" height="50" as="geometry" />
         </mxCell>
         <mxCell id="w4F0DA9J7AdauBMP3hV4-5" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="330" y="360" width="54" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w4F0DA9J7AdauBMP3hV4-6" value="&lt;ul&gt;&lt;li&gt;Transaction time N&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="w4F0DA9J7AdauBMP3hV4-6" value="&lt;ul&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Credit card statement date N&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="270" y="380" width="146" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="w4F0DA9J7AdauBMP3hV4-35" value="&amp;nbsp; &amp;nbsp; Transaction features:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;amnt&lt;/span&gt;&lt;/li&gt;&lt;li&gt;currency&lt;/li&gt;&lt;li&gt;operation_kind&lt;/li&gt;&lt;li&gt;card_type&lt;/li&gt;&lt;li&gt;payment_system&lt;/li&gt;&lt;li&gt;mcc&lt;/li&gt;&lt;li&gt;country&lt;/li&gt;&lt;li&gt;city&lt;/li&gt;&lt;li&gt;hour&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;li&gt;income_flag&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;html=1;align=left;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;spacing=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="440" y="330" width="140" height="220" as="geometry" />
+        <mxCell id="w4F0DA9J7AdauBMP3hV4-35" value="&amp;nbsp; &amp;nbsp; Credit card statement features:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Переменные уровня преступности:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;D_*&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Характеристики клиента:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Переменные расходов:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;S_*&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Переменные оплаты:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;P_*&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Переменные баланса:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;R_*&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;li&gt;Оценка риска клиента банком:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;R_*&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;html=1;align=left;verticalAlign=top;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;spacing=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="440" y="330" width="270" height="220" as="geometry" />
         </mxCell>
         <mxCell id="w4F0DA9J7AdauBMP3hV4-54" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.02;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w4F0DA9J7AdauBMP3hV4-6" target="w4F0DA9J7AdauBMP3hV4-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
